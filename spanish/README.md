@@ -12,3 +12,4 @@
 ## Movies / Series to learn Spanish
 - [ ] [Casa de la Papel ] 
 - [ ] [Simpsons in Spanish]
+- [X] [Narcos]
