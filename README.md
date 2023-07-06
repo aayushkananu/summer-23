@@ -7,6 +7,5 @@ After a not-so-great recruiting season, here's my progress report & a to-do list
 - [Interview Prep](https://github.com/aayushkananu/summer-23/tree/main/interview-prep)
 - [Machine Learning](https://github.com/aayushkananu/summer-23/tree/main/machine-learning)
 - [Mathematics](https://github.com/aayushkananu/summer-23/tree/main/machine-learning)
-- [Computer Science](https://github.com/aayushkananu/summer-23/tree/main/computer-science)
 - [Spanish](https://github.com/aayushkananu/summer-23/tree/main/spanish)
 - [Gym routine](https://github.com/aayushkananu/summer-23/tree/main/gym)
