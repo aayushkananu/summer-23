@@ -7,6 +7,7 @@
 - [ ] [Andrew Ng- Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning)
 - [ ] [Code with Harry- Machine Learning Course](https://www.youtube.com/watch?v=_u-PaJCpwiU&list=PLu0W_9lII9ai6fAMHp-acBmJONT7Y4BSG)
 - [ ] [Hands on Machine Learning with Scikit Learn Keras and TensorFlow 2nd Edition](https://github.com/loveunk/Deep-learning-books/blob/master/1.%20Machine%20Leaning%20and%20Deep%20Learning/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20Keras%20and%20TensorFlow%202nd%20Edition-2019.pdf)
+- [ ] [Scikit Learn Documentation](https://scikit-learn.org/stable/supervised_learning.html#supervised-learning)
 
 ## Data Science
 - [ ] [Book: Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
