@@ -9,6 +9,6 @@
 
 
 ## Others
-- [ ] [Edlyft Mock Interview I ] 
+- [X] [Edlyft Mock Interview I ] 
 - [ ] [Edlyft Mock Interview II ] 
 - [ ] [Edlyft Mock Interview III ] 
